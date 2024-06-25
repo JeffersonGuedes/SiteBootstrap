@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav a img {
+    width: 6vw;
+}
+
+#carouselExampleDark img {
+    width: 100vw;
+    height: 80vh;
+}
+
+#cardsRedondo .card {
+    box-sizing: border-box;
+    border-radius: 20rem;
+    background-color: aliceblue;
+}
+
+header{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+section{
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+footer{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    background-color: #000;
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: #fff;
+}
+hr {
+    border: none;
+}
